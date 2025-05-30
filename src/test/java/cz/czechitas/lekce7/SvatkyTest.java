@@ -91,3 +91,4 @@ class SvatkyTest {
         assertEquals(pocetPredSmazanim - 1, svatky.getPocetJmen());
     }
 }
+
